@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Small industrial touch */
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-zinc-950 text-zinc-50;
+}
